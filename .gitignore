@@ -1,0 +1,4 @@
+#./bin/env git
+cmake-build-debug
+CMakeLists.txt
+.idea
